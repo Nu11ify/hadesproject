@@ -1,3 +1,4 @@
 # hadesproject
 
-Hello! welcome to my journey following the Odinproject!
+Hello! welcome to my journey
+Stay for a while?
