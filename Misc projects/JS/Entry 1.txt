@@ -1,0 +1,14 @@
+Display:
+console.log
+
+Comments:
+Single line - //
+multi line - /* text */
+
+fundemental data types:
+strings, numbers, booleans, null, undefined, symbol, Object
+
+Numbers - Any numbers without quotes
+Strings - characters wrapped in "text" or 'text'
+built in arithmetic operators - +, -, *, /, %
+Objects - .object . ex: .lenght

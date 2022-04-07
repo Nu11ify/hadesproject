@@ -1,0 +1,15 @@
+Useful websites:
+MDN Web Docs - https://developer.mozilla.org/en-US/
+W3 - https://www.w3.org/TR/CSS2/selector.html
+CSS-Tricks - https://css-tricks.com/
+DEV Community - https://dev.to/
+Stack Overflow - https://stackoverflow.com/
+Can I use - https://caniuse.com/
+Repl.it - https://replit.com/
+
+Free E-Book:
+Eloquent JavaScript - https://eloquentjavascript.net/
+
+Resources:
+TheOdinProject - https://www.theodinproject.com/
+

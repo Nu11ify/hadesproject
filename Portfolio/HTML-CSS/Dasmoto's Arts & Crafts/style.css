@@ -1,0 +1,33 @@
+h1, h2, h3, p {
+    font-family: Helvetica;
+  }
+  
+  h1 {
+    background-image: url("pattern.jpeg/");
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+  }
+  
+  .items h2 {
+    color: white;
+    font-size: 32px;
+  }
+  
+  .price {
+    color: Blue;
+    font-weight: bold;
+  }
+  
+  #hawksaw {
+    background-color: MediumSpringGreen;
+  }
+  
+  #frames {
+    background-color: LightCoral;
+  }
+  
+  #paint {
+    background-color: SkyBlue;
+  }
+  

@@ -1,0 +1,108 @@
+/* 1 */
+
+h3 {
+    text-align: center;
+  }
+  
+  .tips {
+    border-radius: 5px;
+    border: 3px solid black;
+    padding: 5%;
+    width: 80%;
+    margin: 5% auto;
+    text-align: justify;
+  }
+  
+  #one {
+    background-color: rgb(239, 217, 202);
+    font-family: "Palatino";
+      font-size: 18px;
+  }
+  
+  #two {
+    background-color: rgb(253, 77, 63);
+    font-family: "Verdana";
+    font-style: italic;
+    line-height: 20px;
+  }
+  
+  #three {
+    background-color: rgb(109, 240, 194);
+    font-family: "Courier";
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  #four {
+    background-color: rgb(255, 199, 64);
+    font-family: "Arial";
+    font-variant: small-caps;
+      text-decoration: underline;
+  }
+  
+
+/* 2 */
+
+body {
+    font-family: Roboto, Courier;
+  }
+
+/* 3 */
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #FFF;
+    padding: 50px 60px;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #004E89;
+    font-size: 30px;
+    font-weight: 400;
+  }
+  
+  h2 {
+    color: #AAA;
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  p {
+    color: #333;
+    font-size: 16px;
+    font-weight: 100;
+    text-align: center;
+  }
+  
+  img {
+    height: 150px;
+    margin: 0 auto;
+    border-radius: 100%;
+  }
+ 
+/* 4 */
+
+body {
+  background-color: #F0EAD6;
+  width: 90%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-variant: small-caps;
+  font-size: 24px;
+  text-align: center;
+  font-weight: normal;
+}
+
+article .recipe{
+  font-weight: bold;
+}
