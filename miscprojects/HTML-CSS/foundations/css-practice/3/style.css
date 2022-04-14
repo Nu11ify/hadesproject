@@ -1,0 +1,13 @@
+.firstel .secondel {
+    font-size: 28px;
+    font-family: Nelvetica, 'Times New Roman', sans-serif;
+}
+
+.firstel{
+    background-color: black;
+    color: white;
+}
+
+.secondel{
+    background-color: yellow;
+} 
